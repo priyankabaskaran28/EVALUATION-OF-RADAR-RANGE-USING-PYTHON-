@@ -93,6 +93,11 @@ ylabel("Gain");
 
 <img width="702" height="594" alt="radar3" src="https://github.com/user-attachments/assets/3f4c0fa5-26cb-4b06-8601-a4d0c9d4fcc4" />
 
+## Calculations:
+<img width="1118" height="1280" alt="image" src="https://github.com/user-attachments/assets/b505444b-7e25-43dc-9721-e594184637a7" />
+<img width="878" height="1280" alt="image" src="https://github.com/user-attachments/assets/51ec21ae-da93-42ed-900c-53367914c2df" />
+
+
 ### Result:
 The maximum range of the radar system was successfully calculated using Python.
 By providing the required radar parameters and executing the radar range function, the program produced the correct maximum detectable range value.
